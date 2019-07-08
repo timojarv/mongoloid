@@ -1,2 +1,2 @@
 #!/bin/sh
-/app/backup.sh &>> /app/fifo
+/app/backup.sh &> /app/fifo
