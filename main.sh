@@ -9,4 +9,5 @@ then
     tail -f ./fifo
 else
     ./backup.sh
+    tail -f
 fi
