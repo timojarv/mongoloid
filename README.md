@@ -7,3 +7,11 @@ You can obtain the token with `gsutil config`,
 it is the token that the tool wants you to paste after authenticating.
 
 Run once with env var `RUN_ONCE=true`
+
+You can set interval with env var `INTERVAL`, options:
+
+- 15min
+- hourly
+- daily
+- weekly
+- monthly
