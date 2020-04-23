@@ -1,4 +1,4 @@
-# Mongoloid - mongodb backup tool
+# msync - mongodb backup tool
 
 Daily backups to Google cloud storage.
 
